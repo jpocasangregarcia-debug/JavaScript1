@@ -1,16 +1,16 @@
-let botonRojo = document.getElementByld("rojo")
-let botonAzul = document.getElementByld("azul")
-let botonVerde = document.getElementByld("verde")
+let botonNaranja = document.getElementByld("naranja")
+let botonNegro = document.getElementByld("negro")
+let botonAmarillo = document.getElementByld("amarillo")
 
-botonRojo.addEventlistener("click",function(){
-    document.body.style.backgroundColor ="lightcoral";
+botonNaranja.addEventlistener("click",function(){
+    document.body.style.backgroundColor ="orange";
 });
 
-botonAzul.addEventlistener("click",function(){
-    document.body.style.backgroundColor ="lightblue";
+botonNegro.addEventlistener("click",function(){
+    document.body.style.backgroundColor ="negro";
 });
 
-botonVerde.addEventlistener("click",function(){
-    document.body.style.backgroundColor ="lightgreen";
+botonAmarillo.addEventlistener("click",function(){
+    document.body.style.backgroundColor ="yellow";
 });
 

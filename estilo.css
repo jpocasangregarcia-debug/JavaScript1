@@ -22,14 +22,14 @@ button{
     cursor: pointer;
 }
 
-#rojo{
-    background-color: red;
+#naranja{
+    background-color: rgb(253, 87, 10);
 }
 
-#azul{
-    background-color: blue;
+#negro{
+    background-color: rgb(0, 0, 0);
 }
 
-#verde{
-    background-color: green;
+#amarillo{
+    background-color: rgb(246, 250, 19);
 }
